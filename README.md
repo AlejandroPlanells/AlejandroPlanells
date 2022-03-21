@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alejandro Planells
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning python with Django
+- 🌱 I’m currently learning
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me with the mail alex10planells@gmail.com
 
