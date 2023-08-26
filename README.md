@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alejandro Planells
-- 👀 I’m interested in learning
+- 👀 I’m interested in learning and am currently working
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me with the mail alex10planells@gmail.com
 
